@@ -36,11 +36,15 @@ run_test() {
     fi
 }
 
-# Test: Python weather server
-test_weather_server_python() {
+# Test: Python catalog server
+#
+# Formerly weather-server-python: the Python quickstart was converted into a
+# competitive product intelligence server and renamed. The smoke test only
+# lists tools, so it passes without seeding the database.
+test_catalog_server_python() {
     check_dependency uv || return 1
-    local server_dir="${PROJECT_ROOT}/weather-server-python"
-    node "${TEST_CLIENT}" uv --directory "${server_dir}" run weather.py
+    local server_dir="${PROJECT_ROOT}/catalog-mcp-server"
+    node "${TEST_CLIENT}" uv --directory "${server_dir}" run python -m catalog.server
 }
 
 # Test: TypeScript weather server
@@ -107,7 +111,7 @@ test_mcp_client_typescript() {
 # credentials. Making them start credential-free is a change in their own
 # directories, so their coverage lands with those changes rather than here.
 print_header "Running smoke tests"
-run_test "weather-server-python" test_weather_server_python
+run_test "catalog-server-python" test_catalog_server_python
 run_test "weather-server-typescript" test_weather_server_typescript
 run_test "weather-server-rust" test_weather_server_rust
 run_test "weather-server-go" test_weather_server_go

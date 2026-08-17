@@ -1,0 +1,2274 @@
+{
+  "competitors": [
+    {
+      "id": "cmp_us",
+      "name": "Us",
+      "website": "https://www.meridian-supply.example.com",
+      "is_us": 1
+    },
+    {
+      "id": "cmp_northline",
+      "name": "Northline",
+      "website": "https://www.northline.example.com",
+      "is_us": 0
+    },
+    {
+      "id": "cmp_cascade",
+      "name": "Cascade Building Products",
+      "website": "https://www.cascadebp.example.com",
+      "is_us": 0
+    },
+    {
+      "id": "cmp_ridgeway",
+      "name": "Ridgeway",
+      "website": "https://www.ridgeway.example.com",
+      "is_us": 0
+    },
+    {
+      "id": "cmp_summitclad",
+      "name": "Summit Clad",
+      "website": "https://www.summitclad.example.com",
+      "is_us": 0
+    },
+    {
+      "id": "cmp_baywood",
+      "name": "Baywood",
+      "website": "https://www.baywood.example.com",
+      "is_us": 0
+    }
+  ],
+  "products": [
+    {
+      "id": "prd_0101",
+      "competitor_id": "cmp_us",
+      "name": "Meridian Composite Deck Board",
+      "category": "Decking",
+      "price_usd": 6.85,
+      "url": "https://www.meridian-supply.example.com/products/meridian-composite-deck-board",
+      "description": "Our flagship capped composite board, sold by the linear foot in six colors.",
+      "last_seen_at": "2026-07-23",
+      "features": [
+        {
+          "name": "capped_composite",
+          "label": "Capped composite core",
+          "value": null
+        },
+        {
+          "name": "hidden_fastener_system",
+          "label": "Hidden fastener system",
+          "value": null
+        },
+        {
+          "name": "grooved_edge",
+          "label": "Grooved edge profile",
+          "value": null
+        },
+        {
+          "name": "recycled_content",
+          "label": "Recycled content",
+          "value": "62%"
+        },
+        {
+          "name": "mold_inhibitor",
+          "label": "Mold inhibitor",
+          "value": null
+        },
+        {
+          "name": "fade_stain_warranty",
+          "label": "Fade and stain warranty",
+          "value": "25 years"
+        },
+        {
+          "name": "reversible_profile",
+          "label": "Reversible board profile",
+          "value": null
+        },
+        {
+          "name": "uv_stable",
+          "label": "UV stable",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0102",
+      "competitor_id": "cmp_us",
+      "name": "Meridian Fiber Cement Lap Siding",
+      "category": "Siding",
+      "price_usd": 3.2,
+      "url": "https://www.meridian-supply.example.com/products/meridian-fiber-cement-lap-siding",
+      "description": "Fiber cement lap siding in 6 in and 8 in exposures, primed or pre-finished.",
+      "last_seen_at": "2026-07-26",
+      "features": [
+        {
+          "name": "pre_finished",
+          "label": "Factory pre-finished",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "termite_resistant",
+          "label": "Termite resistant",
+          "value": null
+        },
+        {
+          "name": "fire_rated",
+          "label": "Fire rated",
+          "value": "Class A"
+        },
+        {
+          "name": "low_voc",
+          "label": "Low VOC",
+          "value": null
+        },
+        {
+          "name": "wind_rated",
+          "label": "Wind rated",
+          "value": "130 mph"
+        },
+        {
+          "name": "color_matched_trim",
+          "label": "Color-matched trim program",
+          "value": null
+        },
+        {
+          "name": "uv_stable",
+          "label": "UV stable",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0103",
+      "competitor_id": "cmp_us",
+      "name": "Halo Mineral Wool Batt R-15",
+      "category": "Insulation",
+      "price_usd": 1.42,
+      "url": "https://www.meridian-supply.example.com/products/halo-mineral-wool-batt-r-15",
+      "description": "Mineral wool batt for 2x4 stud cavities, priced per square foot.",
+      "last_seen_at": "2026-07-29",
+      "features": [
+        {
+          "name": "fire_rated",
+          "label": "Fire rated",
+          "value": "Class A"
+        },
+        {
+          "name": "sound_dampening",
+          "label": "Sound dampening",
+          "value": "STC 52"
+        },
+        {
+          "name": "formaldehyde_free",
+          "label": "Formaldehyde free",
+          "value": null
+        },
+        {
+          "name": "mold_inhibitor",
+          "label": "Mold inhibitor",
+          "value": null
+        },
+        {
+          "name": "friction_fit",
+          "label": "Friction-fit edges",
+          "value": null
+        },
+        {
+          "name": "no_itch_binder",
+          "label": "No-itch binder",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "recycled_content",
+          "label": "Recycled content",
+          "value": "62%"
+        }
+      ]
+    },
+    {
+      "id": "prd_0104",
+      "competitor_id": "cmp_us",
+      "name": "Summit Architectural Shingle",
+      "category": "Roofing",
+      "price_usd": 118.0,
+      "url": "https://www.meridian-supply.example.com/products/summit-architectural-shingle",
+      "description": "Laminated architectural asphalt shingle, priced per roofing square.",
+      "last_seen_at": "2026-08-01",
+      "features": [
+        {
+          "name": "algae_resistant",
+          "label": "Algae resistant",
+          "value": "10-year"
+        },
+        {
+          "name": "wind_rated",
+          "label": "Wind rated",
+          "value": "130 mph"
+        },
+        {
+          "name": "lifetime_warranty",
+          "label": "Limited lifetime warranty",
+          "value": null
+        },
+        {
+          "name": "high_nail_zone",
+          "label": "Wide nailing zone",
+          "value": "1.5 in"
+        },
+        {
+          "name": "impact_rated",
+          "label": "Impact rated",
+          "value": "Class 4"
+        },
+        {
+          "name": "fire_rated",
+          "label": "Fire rated",
+          "value": "Class A"
+        },
+        {
+          "name": "starter_strip_included",
+          "label": "Matched starter strip",
+          "value": null
+        },
+        {
+          "name": "uv_stable",
+          "label": "UV stable",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0105",
+      "competitor_id": "cmp_us",
+      "name": "Clearview 200 Double-Hung Window",
+      "category": "Windows",
+      "price_usd": 389.0,
+      "url": "https://www.meridian-supply.example.com/products/clearview-200-double-hung-window",
+      "description": "Vinyl double-hung replacement window, dual pane, standard 36x60 opening.",
+      "last_seen_at": "2026-08-04",
+      "features": [
+        {
+          "name": "low_e_coating",
+          "label": "Low-E coating",
+          "value": "Low-E 366"
+        },
+        {
+          "name": "argon_filled",
+          "label": "Argon gas fill",
+          "value": null
+        },
+        {
+          "name": "tilt_in_sash",
+          "label": "Tilt-in sash",
+          "value": null
+        },
+        {
+          "name": "energy_star",
+          "label": "ENERGY STAR certified",
+          "value": null
+        },
+        {
+          "name": "warm_edge_spacer",
+          "label": "Warm-edge spacer",
+          "value": null
+        },
+        {
+          "name": "thermal_break",
+          "label": "Thermal break",
+          "value": null
+        },
+        {
+          "name": "uv_stable",
+          "label": "UV stable",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0106",
+      "competitor_id": "cmp_us",
+      "name": "SealTight Exterior Sealant",
+      "category": "Sealants and Adhesives",
+      "price_usd": 9.75,
+      "url": "https://www.meridian-supply.example.com/products/sealtight-exterior-sealant",
+      "description": "Siliconized acrylic exterior sealant in a 10.1 oz cartridge.",
+      "last_seen_at": "2026-08-07",
+      "features": [
+        {
+          "name": "low_voc",
+          "label": "Low VOC",
+          "value": null
+        },
+        {
+          "name": "paintable",
+          "label": "Paintable",
+          "value": "30 min"
+        },
+        {
+          "name": "uv_stable",
+          "label": "UV stable",
+          "value": null
+        },
+        {
+          "name": "mildew_resistant",
+          "label": "Mildew resistant",
+          "value": null
+        },
+        {
+          "name": "flexible_cure",
+          "label": "Flexible cure",
+          "value": "50% joint movement"
+        },
+        {
+          "name": "solvent_free",
+          "label": "Solvent free",
+          "value": null
+        },
+        {
+          "name": "ten_year_warranty",
+          "label": "10-year warranty",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0107",
+      "competitor_id": "cmp_us",
+      "name": "Meridian PVC Deck Board",
+      "category": "Decking",
+      "price_usd": 8.4,
+      "url": "https://www.meridian-supply.example.com/products/meridian-pvc-deck-board",
+      "description": "Cellular PVC board for full-sun and poolside decks, sold by the linear foot.",
+      "last_seen_at": "2026-08-10",
+      "features": [
+        {
+          "name": "hidden_fastener_system",
+          "label": "Hidden fastener system",
+          "value": null
+        },
+        {
+          "name": "grooved_edge",
+          "label": "Grooved edge profile",
+          "value": null
+        },
+        {
+          "name": "reversible_profile",
+          "label": "Reversible board profile",
+          "value": null
+        },
+        {
+          "name": "uv_stable",
+          "label": "UV stable",
+          "value": null
+        },
+        {
+          "name": "mold_inhibitor",
+          "label": "Mold inhibitor",
+          "value": null
+        },
+        {
+          "name": "fade_stain_warranty",
+          "label": "Fade and stain warranty",
+          "value": "25 years"
+        },
+        {
+          "name": "heat_mitigation",
+          "label": "Heat-mitigating surface",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0108",
+      "competitor_id": "cmp_northline",
+      "name": "TerraDeck Composite Board",
+      "category": "Decking",
+      "price_usd": 7.1,
+      "url": "https://www.northline.example.com/products/terradeck-composite-board",
+      "description": "Capped composite decking with a brushed traction surface in four colors.",
+      "last_seen_at": "2026-08-13",
+      "features": [
+        {
+          "name": "capped_composite",
+          "label": "Capped composite core",
+          "value": null
+        },
+        {
+          "name": "slip_resistant",
+          "label": "Slip resistant",
+          "value": "R11"
+        },
+        {
+          "name": "hidden_fastener_system",
+          "label": "Hidden fastener system",
+          "value": null
+        },
+        {
+          "name": "grooved_edge",
+          "label": "Grooved edge profile",
+          "value": null
+        },
+        {
+          "name": "heat_mitigation",
+          "label": "Heat-mitigating surface",
+          "value": null
+        },
+        {
+          "name": "recycled_content",
+          "label": "Recycled content",
+          "value": "62%"
+        },
+        {
+          "name": "fade_stain_warranty",
+          "label": "Fade and stain warranty",
+          "value": "25 years"
+        },
+        {
+          "name": "mold_inhibitor",
+          "label": "Mold inhibitor",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0109",
+      "competitor_id": "cmp_northline",
+      "name": "Cedar-Look Vinyl Siding",
+      "category": "Siding",
+      "price_usd": 2.15,
+      "url": "https://www.northline.example.com/products/cedar-look-vinyl-siding",
+      "description": "Double 4 in vinyl siding with a cedar grain emboss, priced per square foot.",
+      "last_seen_at": "2026-07-20",
+      "features": [
+        {
+          "name": "pre_finished",
+          "label": "Factory pre-finished",
+          "value": null
+        },
+        {
+          "name": "self_aligning_lock",
+          "label": "Self-aligning lock",
+          "value": null
+        },
+        {
+          "name": "impact_rated",
+          "label": "Impact rated",
+          "value": "Class 4"
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "low_voc",
+          "label": "Low VOC",
+          "value": null
+        },
+        {
+          "name": "color_matched_trim",
+          "label": "Color-matched trim program",
+          "value": null
+        },
+        {
+          "name": "wind_rated",
+          "label": "Wind rated",
+          "value": "130 mph"
+        },
+        {
+          "name": "termite_resistant",
+          "label": "Termite resistant",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0110",
+      "competitor_id": "cmp_northline",
+      "name": "Fiberglass Batt R-19",
+      "category": "Insulation",
+      "price_usd": 0.98,
+      "url": "https://www.northline.example.com/products/fiberglass-batt-r-19",
+      "description": "Kraft-faced fiberglass batt for 2x6 cavities, priced per square foot.",
+      "last_seen_at": "2026-07-23",
+      "features": [
+        {
+          "name": "formaldehyde_free",
+          "label": "Formaldehyde free",
+          "value": null
+        },
+        {
+          "name": "friction_fit",
+          "label": "Friction-fit edges",
+          "value": null
+        },
+        {
+          "name": "sound_dampening",
+          "label": "Sound dampening",
+          "value": "STC 52"
+        },
+        {
+          "name": "fire_rated",
+          "label": "Fire rated",
+          "value": "Class A"
+        },
+        {
+          "name": "mold_inhibitor",
+          "label": "Mold inhibitor",
+          "value": null
+        },
+        {
+          "name": "recycled_content",
+          "label": "Recycled content",
+          "value": "62%"
+        },
+        {
+          "name": "vapor_barrier",
+          "label": "Integrated vapor barrier",
+          "value": null
+        },
+        {
+          "name": "no_itch_binder",
+          "label": "No-itch binder",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0111",
+      "competitor_id": "cmp_northline",
+      "name": "StormGuard Roof Underlayment",
+      "category": "Roofing",
+      "price_usd": 92.5,
+      "url": "https://www.northline.example.com/products/stormguard-roof-underlayment",
+      "description": "Self-adhering ice and water underlayment, 200 sq ft roll.",
+      "last_seen_at": "2026-07-26",
+      "features": [
+        {
+          "name": "self_healing_membrane",
+          "label": "Self-healing membrane",
+          "value": null
+        },
+        {
+          "name": "ice_dam_protection",
+          "label": "Ice dam protection",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "cold_weather_install",
+          "label": "Cold-weather installation",
+          "value": null
+        },
+        {
+          "name": "uv_stable",
+          "label": "UV stable",
+          "value": null
+        },
+        {
+          "name": "wind_rated",
+          "label": "Wind rated",
+          "value": "130 mph"
+        },
+        {
+          "name": "high_nail_zone",
+          "label": "Wide nailing zone",
+          "value": "1.5 in"
+        },
+        {
+          "name": "fire_rated",
+          "label": "Fire rated",
+          "value": "Class A"
+        }
+      ]
+    },
+    {
+      "id": "prd_0112",
+      "competitor_id": "cmp_northline",
+      "name": "Vantage Double-Hung Window",
+      "category": "Windows",
+      "price_usd": 342.0,
+      "url": "https://www.northline.example.com/products/vantage-double-hung-window",
+      "description": "Vinyl double-hung window with a reinforced meeting rail, 36x60.",
+      "last_seen_at": "2026-07-29",
+      "features": [
+        {
+          "name": "low_e_coating",
+          "label": "Low-E coating",
+          "value": "Low-E 366"
+        },
+        {
+          "name": "argon_filled",
+          "label": "Argon gas fill",
+          "value": null
+        },
+        {
+          "name": "tilt_in_sash",
+          "label": "Tilt-in sash",
+          "value": null
+        },
+        {
+          "name": "warm_edge_spacer",
+          "label": "Warm-edge spacer",
+          "value": null
+        },
+        {
+          "name": "energy_star",
+          "label": "ENERGY STAR certified",
+          "value": null
+        },
+        {
+          "name": "laminated_glass",
+          "label": "Laminated glass",
+          "value": null
+        },
+        {
+          "name": "forced_entry_rated",
+          "label": "Forced-entry rated",
+          "value": null
+        },
+        {
+          "name": "thermal_break",
+          "label": "Thermal break",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0113",
+      "competitor_id": "cmp_northline",
+      "name": "FlexBond Sealant",
+      "category": "Sealants and Adhesives",
+      "price_usd": 8.2,
+      "url": "https://www.northline.example.com/products/flexbond-sealant",
+      "description": "Elastomeric exterior sealant in a 10 oz cartridge, 12 stock colors.",
+      "last_seen_at": "2026-08-01",
+      "features": [
+        {
+          "name": "low_voc",
+          "label": "Low VOC",
+          "value": null
+        },
+        {
+          "name": "paintable",
+          "label": "Paintable",
+          "value": "30 min"
+        },
+        {
+          "name": "cold_weather_install",
+          "label": "Cold-weather installation",
+          "value": null
+        },
+        {
+          "name": "gap_fill",
+          "label": "Gap fill",
+          "value": "1 in"
+        },
+        {
+          "name": "flexible_cure",
+          "label": "Flexible cure",
+          "value": "50% joint movement"
+        },
+        {
+          "name": "mildew_resistant",
+          "label": "Mildew resistant",
+          "value": null
+        },
+        {
+          "name": "uv_stable",
+          "label": "UV stable",
+          "value": null
+        },
+        {
+          "name": "solvent_free",
+          "label": "Solvent free",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0114",
+      "competitor_id": "cmp_northline",
+      "name": "TerraDeck Rail Kit",
+      "category": "Decking",
+      "price_usd": 214.0,
+      "url": "https://www.northline.example.com/products/terradeck-rail-kit",
+      "description": "Six-foot composite rail kit with matched balusters and brackets.",
+      "last_seen_at": "2026-08-04",
+      "features": [
+        {
+          "name": "hidden_fastener_system",
+          "label": "Hidden fastener system",
+          "value": null
+        },
+        {
+          "name": "uv_stable",
+          "label": "UV stable",
+          "value": null
+        },
+        {
+          "name": "fade_stain_warranty",
+          "label": "Fade and stain warranty",
+          "value": "25 years"
+        },
+        {
+          "name": "recycled_content",
+          "label": "Recycled content",
+          "value": "62%"
+        },
+        {
+          "name": "mold_inhibitor",
+          "label": "Mold inhibitor",
+          "value": null
+        },
+        {
+          "name": "color_matched_trim",
+          "label": "Color-matched trim program",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "wind_rated",
+          "label": "Wind rated",
+          "value": "130 mph"
+        }
+      ]
+    },
+    {
+      "id": "prd_0115",
+      "competitor_id": "cmp_cascade",
+      "name": "EverGrain Composite Decking",
+      "category": "Decking",
+      "price_usd": 6.4,
+      "url": "https://www.cascadebp.example.com/products/evergrain-composite-decking",
+      "description": "Value-tier capped composite board with a low-gloss wood grain finish.",
+      "last_seen_at": "2026-08-07",
+      "features": [
+        {
+          "name": "capped_composite",
+          "label": "Capped composite core",
+          "value": null
+        },
+        {
+          "name": "slip_resistant",
+          "label": "Slip resistant",
+          "value": "R11"
+        },
+        {
+          "name": "cool_touch_cap",
+          "label": "Cool-touch cap layer",
+          "value": null
+        },
+        {
+          "name": "grooved_edge",
+          "label": "Grooved edge profile",
+          "value": null
+        },
+        {
+          "name": "hidden_fastener_system",
+          "label": "Hidden fastener system",
+          "value": null
+        },
+        {
+          "name": "recycled_content",
+          "label": "Recycled content",
+          "value": "62%"
+        },
+        {
+          "name": "mold_inhibitor",
+          "label": "Mold inhibitor",
+          "value": null
+        },
+        {
+          "name": "fire_rated",
+          "label": "Fire rated",
+          "value": "Class A"
+        }
+      ]
+    },
+    {
+      "id": "prd_0116",
+      "competitor_id": "cmp_cascade",
+      "name": "Engineered Wood Siding",
+      "category": "Siding",
+      "price_usd": 2.85,
+      "url": "https://www.cascadebp.example.com/products/engineered-wood-siding",
+      "description": "Treated engineered wood lap siding, factory primed, 16 ft lengths.",
+      "last_seen_at": "2026-08-10",
+      "features": [
+        {
+          "name": "pre_finished",
+          "label": "Factory pre-finished",
+          "value": null
+        },
+        {
+          "name": "termite_resistant",
+          "label": "Termite resistant",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "impact_rated",
+          "label": "Impact rated",
+          "value": "Class 4"
+        },
+        {
+          "name": "low_voc",
+          "label": "Low VOC",
+          "value": null
+        },
+        {
+          "name": "wind_rated",
+          "label": "Wind rated",
+          "value": "130 mph"
+        },
+        {
+          "name": "color_matched_trim",
+          "label": "Color-matched trim program",
+          "value": null
+        },
+        {
+          "name": "fire_rated",
+          "label": "Fire rated",
+          "value": "Class A"
+        }
+      ]
+    },
+    {
+      "id": "prd_0117",
+      "competitor_id": "cmp_cascade",
+      "name": "Blown Cellulose R-13",
+      "category": "Insulation",
+      "price_usd": 0.74,
+      "url": "https://www.cascadebp.example.com/products/blown-cellulose-r-13",
+      "description": "Loose-fill cellulose for attics and retrofit wall cavities, per square foot.",
+      "last_seen_at": "2026-08-13",
+      "features": [
+        {
+          "name": "recycled_content",
+          "label": "Recycled content",
+          "value": "62%"
+        },
+        {
+          "name": "formaldehyde_free",
+          "label": "Formaldehyde free",
+          "value": null
+        },
+        {
+          "name": "fire_rated",
+          "label": "Fire rated",
+          "value": "Class A"
+        },
+        {
+          "name": "mold_inhibitor",
+          "label": "Mold inhibitor",
+          "value": null
+        },
+        {
+          "name": "sound_dampening",
+          "label": "Sound dampening",
+          "value": "STC 52"
+        },
+        {
+          "name": "cold_weather_install",
+          "label": "Cold-weather installation",
+          "value": null
+        },
+        {
+          "name": "low_voc",
+          "label": "Low VOC",
+          "value": null
+        },
+        {
+          "name": "vapor_barrier",
+          "label": "Integrated vapor barrier",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0118",
+      "competitor_id": "cmp_cascade",
+      "name": "SolarShield Shingle",
+      "category": "Roofing",
+      "price_usd": 134.0,
+      "url": "https://www.cascadebp.example.com/products/solarshield-shingle",
+      "description": "Reflective architectural shingle for cooling-dominated climates.",
+      "last_seen_at": "2026-07-20",
+      "features": [
+        {
+          "name": "solar_reflective",
+          "label": "Solar reflective",
+          "value": "SRI 78"
+        },
+        {
+          "name": "algae_resistant",
+          "label": "Algae resistant",
+          "value": "10-year"
+        },
+        {
+          "name": "lifetime_warranty",
+          "label": "Limited lifetime warranty",
+          "value": null
+        },
+        {
+          "name": "wind_rated",
+          "label": "Wind rated",
+          "value": "130 mph"
+        },
+        {
+          "name": "impact_rated",
+          "label": "Impact rated",
+          "value": "Class 4"
+        },
+        {
+          "name": "high_nail_zone",
+          "label": "Wide nailing zone",
+          "value": "1.5 in"
+        },
+        {
+          "name": "fire_rated",
+          "label": "Fire rated",
+          "value": "Class A"
+        },
+        {
+          "name": "starter_strip_included",
+          "label": "Matched starter strip",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0119",
+      "competitor_id": "cmp_cascade",
+      "name": "Horizon Casement Window",
+      "category": "Windows",
+      "price_usd": 428.0,
+      "url": "https://www.cascadebp.example.com/products/horizon-casement-window",
+      "description": "Triple-pane fiberglass casement window with a multipoint lock.",
+      "last_seen_at": "2026-07-23",
+      "features": [
+        {
+          "name": "low_e_coating",
+          "label": "Low-E coating",
+          "value": "Low-E 366"
+        },
+        {
+          "name": "triple_pane",
+          "label": "Triple pane",
+          "value": null
+        },
+        {
+          "name": "argon_filled",
+          "label": "Argon gas fill",
+          "value": null
+        },
+        {
+          "name": "thermal_break",
+          "label": "Thermal break",
+          "value": null
+        },
+        {
+          "name": "warm_edge_spacer",
+          "label": "Warm-edge spacer",
+          "value": null
+        },
+        {
+          "name": "energy_star",
+          "label": "ENERGY STAR certified",
+          "value": null
+        },
+        {
+          "name": "forced_entry_rated",
+          "label": "Forced-entry rated",
+          "value": null
+        },
+        {
+          "name": "laminated_glass",
+          "label": "Laminated glass",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0120",
+      "competitor_id": "cmp_cascade",
+      "name": "ProSeal Hybrid Sealant",
+      "category": "Sealants and Adhesives",
+      "price_usd": 11.4,
+      "url": "https://www.cascadebp.example.com/products/proseal-hybrid-sealant",
+      "description": "Hybrid polymer sealant that bonds to damp substrates, 10.1 oz cartridge.",
+      "last_seen_at": "2026-07-26",
+      "features": [
+        {
+          "name": "solvent_free",
+          "label": "Solvent free",
+          "value": null
+        },
+        {
+          "name": "paintable",
+          "label": "Paintable",
+          "value": "30 min"
+        },
+        {
+          "name": "cold_weather_install",
+          "label": "Cold-weather installation",
+          "value": null
+        },
+        {
+          "name": "flexible_cure",
+          "label": "Flexible cure",
+          "value": "50% joint movement"
+        },
+        {
+          "name": "mildew_resistant",
+          "label": "Mildew resistant",
+          "value": null
+        },
+        {
+          "name": "low_voc",
+          "label": "Low VOC",
+          "value": null
+        },
+        {
+          "name": "ten_year_warranty",
+          "label": "10-year warranty",
+          "value": null
+        },
+        {
+          "name": "gap_fill",
+          "label": "Gap fill",
+          "value": "1 in"
+        }
+      ]
+    },
+    {
+      "id": "prd_0121",
+      "competitor_id": "cmp_cascade",
+      "name": "EverGrain Fascia Board",
+      "category": "Decking",
+      "price_usd": 9.6,
+      "url": "https://www.cascadebp.example.com/products/evergrain-fascia-board",
+      "description": "One-inch composite fascia board matched to the EverGrain deck line.",
+      "last_seen_at": "2026-07-29",
+      "features": [
+        {
+          "name": "capped_composite",
+          "label": "Capped composite core",
+          "value": null
+        },
+        {
+          "name": "uv_stable",
+          "label": "UV stable",
+          "value": null
+        },
+        {
+          "name": "fade_stain_warranty",
+          "label": "Fade and stain warranty",
+          "value": "25 years"
+        },
+        {
+          "name": "recycled_content",
+          "label": "Recycled content",
+          "value": "62%"
+        },
+        {
+          "name": "mold_inhibitor",
+          "label": "Mold inhibitor",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "color_matched_trim",
+          "label": "Color-matched trim program",
+          "value": null
+        },
+        {
+          "name": "hidden_fastener_system",
+          "label": "Hidden fastener system",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0122",
+      "competitor_id": "cmp_ridgeway",
+      "name": "Ascent PVC Decking",
+      "category": "Decking",
+      "price_usd": 9.15,
+      "url": "https://www.ridgeway.example.com/products/ascent-pvc-decking",
+      "description": "Premium cellular PVC decking aimed at full-sun rooftop installs.",
+      "last_seen_at": "2026-08-01",
+      "features": [
+        {
+          "name": "hidden_fastener_system",
+          "label": "Hidden fastener system",
+          "value": null
+        },
+        {
+          "name": "slip_resistant",
+          "label": "Slip resistant",
+          "value": "R11"
+        },
+        {
+          "name": "cool_touch_cap",
+          "label": "Cool-touch cap layer",
+          "value": null
+        },
+        {
+          "name": "heat_mitigation",
+          "label": "Heat-mitigating surface",
+          "value": null
+        },
+        {
+          "name": "grooved_edge",
+          "label": "Grooved edge profile",
+          "value": null
+        },
+        {
+          "name": "uv_stable",
+          "label": "UV stable",
+          "value": null
+        },
+        {
+          "name": "fade_stain_warranty",
+          "label": "Fade and stain warranty",
+          "value": "25 years"
+        },
+        {
+          "name": "hidden_drainage",
+          "label": "Concealed drainage channel",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0123",
+      "competitor_id": "cmp_ridgeway",
+      "name": "Insulated Vinyl Siding",
+      "category": "Siding",
+      "price_usd": 3.65,
+      "url": "https://www.ridgeway.example.com/products/insulated-vinyl-siding",
+      "description": "Vinyl siding with a contoured EPS backer laminated to the panel.",
+      "last_seen_at": "2026-08-04",
+      "features": [
+        {
+          "name": "insulated_backer",
+          "label": "Insulated backer",
+          "value": "R-2.7"
+        },
+        {
+          "name": "pre_finished",
+          "label": "Factory pre-finished",
+          "value": null
+        },
+        {
+          "name": "self_aligning_lock",
+          "label": "Self-aligning lock",
+          "value": null
+        },
+        {
+          "name": "impact_rated",
+          "label": "Impact rated",
+          "value": "Class 4"
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "wind_rated",
+          "label": "Wind rated",
+          "value": "130 mph"
+        },
+        {
+          "name": "color_matched_trim",
+          "label": "Color-matched trim program",
+          "value": null
+        },
+        {
+          "name": "low_voc",
+          "label": "Low VOC",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0124",
+      "competitor_id": "cmp_ridgeway",
+      "name": "Spray Foam Kit R-21",
+      "category": "Insulation",
+      "price_usd": 2.6,
+      "url": "https://www.ridgeway.example.com/products/spray-foam-kit-r-21",
+      "description": "Two-component closed-cell spray foam kit, 200 board feet of yield.",
+      "last_seen_at": "2026-08-07",
+      "features": [
+        {
+          "name": "high_r_per_inch",
+          "label": "High R-value per inch",
+          "value": "R-6.5"
+        },
+        {
+          "name": "vapor_barrier",
+          "label": "Integrated vapor barrier",
+          "value": null
+        },
+        {
+          "name": "cold_weather_install",
+          "label": "Cold-weather installation",
+          "value": null
+        },
+        {
+          "name": "fire_rated",
+          "label": "Fire rated",
+          "value": "Class A"
+        },
+        {
+          "name": "sound_dampening",
+          "label": "Sound dampening",
+          "value": "STC 52"
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "low_voc",
+          "label": "Low VOC",
+          "value": null
+        },
+        {
+          "name": "mold_inhibitor",
+          "label": "Mold inhibitor",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0125",
+      "competitor_id": "cmp_ridgeway",
+      "name": "IceStop Roof Membrane",
+      "category": "Roofing",
+      "price_usd": 104.0,
+      "url": "https://www.ridgeway.example.com/products/icestop-roof-membrane",
+      "description": "Granulated self-adhering membrane for eaves, valleys, and low slopes.",
+      "last_seen_at": "2026-08-10",
+      "features": [
+        {
+          "name": "ice_dam_protection",
+          "label": "Ice dam protection",
+          "value": null
+        },
+        {
+          "name": "self_healing_membrane",
+          "label": "Self-healing membrane",
+          "value": null
+        },
+        {
+          "name": "cold_weather_install",
+          "label": "Cold-weather installation",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "wind_rated",
+          "label": "Wind rated",
+          "value": "130 mph"
+        },
+        {
+          "name": "uv_stable",
+          "label": "UV stable",
+          "value": null
+        },
+        {
+          "name": "high_nail_zone",
+          "label": "Wide nailing zone",
+          "value": "1.5 in"
+        },
+        {
+          "name": "fire_rated",
+          "label": "Fire rated",
+          "value": "Class A"
+        }
+      ]
+    },
+    {
+      "id": "prd_0126",
+      "competitor_id": "cmp_ridgeway",
+      "name": "Sentinel Impact Window",
+      "category": "Windows",
+      "price_usd": 512.0,
+      "url": "https://www.ridgeway.example.com/products/sentinel-impact-window",
+      "description": "Coastal impact-rated double-hung window with laminated glazing.",
+      "last_seen_at": "2026-08-13",
+      "features": [
+        {
+          "name": "laminated_glass",
+          "label": "Laminated glass",
+          "value": null
+        },
+        {
+          "name": "impact_rated",
+          "label": "Impact rated",
+          "value": "Class 4"
+        },
+        {
+          "name": "forced_entry_rated",
+          "label": "Forced-entry rated",
+          "value": null
+        },
+        {
+          "name": "low_e_coating",
+          "label": "Low-E coating",
+          "value": "Low-E 366"
+        },
+        {
+          "name": "argon_filled",
+          "label": "Argon gas fill",
+          "value": null
+        },
+        {
+          "name": "thermal_break",
+          "label": "Thermal break",
+          "value": null
+        },
+        {
+          "name": "energy_star",
+          "label": "ENERGY STAR certified",
+          "value": null
+        },
+        {
+          "name": "warm_edge_spacer",
+          "label": "Warm-edge spacer",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0127",
+      "competitor_id": "cmp_ridgeway",
+      "name": "GapFill Foam Sealant",
+      "category": "Sealants and Adhesives",
+      "price_usd": 7.35,
+      "url": "https://www.ridgeway.example.com/products/gapfill-foam-sealant",
+      "description": "Low-expansion window and door foam sealant, 16 oz can with a gun adapter.",
+      "last_seen_at": "2026-07-20",
+      "features": [
+        {
+          "name": "gap_fill",
+          "label": "Gap fill",
+          "value": "1 in"
+        },
+        {
+          "name": "cold_weather_install",
+          "label": "Cold-weather installation",
+          "value": null
+        },
+        {
+          "name": "low_voc",
+          "label": "Low VOC",
+          "value": null
+        },
+        {
+          "name": "paintable",
+          "label": "Paintable",
+          "value": "30 min"
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "flexible_cure",
+          "label": "Flexible cure",
+          "value": "50% joint movement"
+        },
+        {
+          "name": "uv_stable",
+          "label": "UV stable",
+          "value": null
+        },
+        {
+          "name": "mildew_resistant",
+          "label": "Mildew resistant",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0128",
+      "competitor_id": "cmp_ridgeway",
+      "name": "Ascent Stair Tread",
+      "category": "Decking",
+      "price_usd": 12.8,
+      "url": "https://www.ridgeway.example.com/products/ascent-stair-tread",
+      "description": "Pre-cut PVC stair tread with a deeper traction emboss than the deck board.",
+      "last_seen_at": "2026-07-23",
+      "features": [
+        {
+          "name": "slip_resistant",
+          "label": "Slip resistant",
+          "value": "R11"
+        },
+        {
+          "name": "hidden_fastener_system",
+          "label": "Hidden fastener system",
+          "value": null
+        },
+        {
+          "name": "uv_stable",
+          "label": "UV stable",
+          "value": null
+        },
+        {
+          "name": "fade_stain_warranty",
+          "label": "Fade and stain warranty",
+          "value": "25 years"
+        },
+        {
+          "name": "cool_touch_cap",
+          "label": "Cool-touch cap layer",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "heat_mitigation",
+          "label": "Heat-mitigating surface",
+          "value": null
+        },
+        {
+          "name": "grooved_edge",
+          "label": "Grooved edge profile",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0129",
+      "competitor_id": "cmp_summitclad",
+      "name": "Steel Lap Siding",
+      "category": "Siding",
+      "price_usd": 4.4,
+      "url": "https://www.summitclad.example.com/products/steel-lap-siding",
+      "description": "Roll-formed steel lap siding with a 40-year finish warranty.",
+      "last_seen_at": "2026-07-26",
+      "features": [
+        {
+          "name": "pre_finished",
+          "label": "Factory pre-finished",
+          "value": null
+        },
+        {
+          "name": "impact_rated",
+          "label": "Impact rated",
+          "value": "Class 4"
+        },
+        {
+          "name": "fire_rated",
+          "label": "Fire rated",
+          "value": "Class A"
+        },
+        {
+          "name": "wind_rated",
+          "label": "Wind rated",
+          "value": "130 mph"
+        },
+        {
+          "name": "termite_resistant",
+          "label": "Termite resistant",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "color_matched_trim",
+          "label": "Color-matched trim program",
+          "value": null
+        },
+        {
+          "name": "low_voc",
+          "label": "Low VOC",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0130",
+      "competitor_id": "cmp_summitclad",
+      "name": "Standing Seam Roof Panel",
+      "category": "Roofing",
+      "price_usd": 186.0,
+      "url": "https://www.summitclad.example.com/products/standing-seam-roof-panel",
+      "description": "24-gauge standing seam metal roof panel, priced per roofing square.",
+      "last_seen_at": "2026-07-29",
+      "features": [
+        {
+          "name": "solar_reflective",
+          "label": "Solar reflective",
+          "value": "SRI 78"
+        },
+        {
+          "name": "wind_rated",
+          "label": "Wind rated",
+          "value": "130 mph"
+        },
+        {
+          "name": "fire_rated",
+          "label": "Fire rated",
+          "value": "Class A"
+        },
+        {
+          "name": "lifetime_warranty",
+          "label": "Limited lifetime warranty",
+          "value": null
+        },
+        {
+          "name": "impact_rated",
+          "label": "Impact rated",
+          "value": "Class 4"
+        },
+        {
+          "name": "uv_stable",
+          "label": "UV stable",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "algae_resistant",
+          "label": "Algae resistant",
+          "value": "10-year"
+        }
+      ]
+    },
+    {
+      "id": "prd_0131",
+      "competitor_id": "cmp_summitclad",
+      "name": "Composite Deck Board",
+      "category": "Decking",
+      "price_usd": 5.95,
+      "url": "https://www.summitclad.example.com/products/composite-deck-board",
+      "description": "Entry-price capped composite board sold through lumberyards.",
+      "last_seen_at": "2026-08-01",
+      "features": [
+        {
+          "name": "capped_composite",
+          "label": "Capped composite core",
+          "value": null
+        },
+        {
+          "name": "slip_resistant",
+          "label": "Slip resistant",
+          "value": "R11"
+        },
+        {
+          "name": "recycled_content",
+          "label": "Recycled content",
+          "value": "62%"
+        },
+        {
+          "name": "grooved_edge",
+          "label": "Grooved edge profile",
+          "value": null
+        },
+        {
+          "name": "mold_inhibitor",
+          "label": "Mold inhibitor",
+          "value": null
+        },
+        {
+          "name": "fade_stain_warranty",
+          "label": "Fade and stain warranty",
+          "value": "25 years"
+        },
+        {
+          "name": "hidden_fastener_system",
+          "label": "Hidden fastener system",
+          "value": null
+        },
+        {
+          "name": "heat_mitigation",
+          "label": "Heat-mitigating surface",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0132",
+      "competitor_id": "cmp_summitclad",
+      "name": "Rigid Foam Board R-10",
+      "category": "Insulation",
+      "price_usd": 1.85,
+      "url": "https://www.summitclad.example.com/products/rigid-foam-board-r-10",
+      "description": "Two-inch polyiso continuous insulation board, foil faced both sides.",
+      "last_seen_at": "2026-08-04",
+      "features": [
+        {
+          "name": "high_r_per_inch",
+          "label": "High R-value per inch",
+          "value": "R-6.5"
+        },
+        {
+          "name": "vapor_barrier",
+          "label": "Integrated vapor barrier",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "fire_rated",
+          "label": "Fire rated",
+          "value": "Class A"
+        },
+        {
+          "name": "cold_weather_install",
+          "label": "Cold-weather installation",
+          "value": null
+        },
+        {
+          "name": "formaldehyde_free",
+          "label": "Formaldehyde free",
+          "value": null
+        },
+        {
+          "name": "mold_inhibitor",
+          "label": "Mold inhibitor",
+          "value": null
+        },
+        {
+          "name": "recycled_content",
+          "label": "Recycled content",
+          "value": "62%"
+        }
+      ]
+    },
+    {
+      "id": "prd_0133",
+      "competitor_id": "cmp_summitclad",
+      "name": "Aperture Slider Window",
+      "category": "Windows",
+      "price_usd": 455.0,
+      "url": "https://www.summitclad.example.com/products/aperture-slider-window",
+      "description": "Aluminum-clad horizontal slider with a thermally broken frame.",
+      "last_seen_at": "2026-08-07",
+      "features": [
+        {
+          "name": "low_e_coating",
+          "label": "Low-E coating",
+          "value": "Low-E 366"
+        },
+        {
+          "name": "argon_filled",
+          "label": "Argon gas fill",
+          "value": null
+        },
+        {
+          "name": "thermal_break",
+          "label": "Thermal break",
+          "value": null
+        },
+        {
+          "name": "energy_star",
+          "label": "ENERGY STAR certified",
+          "value": null
+        },
+        {
+          "name": "warm_edge_spacer",
+          "label": "Warm-edge spacer",
+          "value": null
+        },
+        {
+          "name": "forced_entry_rated",
+          "label": "Forced-entry rated",
+          "value": null
+        },
+        {
+          "name": "laminated_glass",
+          "label": "Laminated glass",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0134",
+      "competitor_id": "cmp_summitclad",
+      "name": "MetalBond Sealant",
+      "category": "Sealants and Adhesives",
+      "price_usd": 12.95,
+      "url": "https://www.summitclad.example.com/products/metalbond-sealant",
+      "description": "Metal-to-metal structural sealant for panel laps, 10 oz cartridge.",
+      "last_seen_at": "2026-08-10",
+      "features": [
+        {
+          "name": "solvent_free",
+          "label": "Solvent free",
+          "value": null
+        },
+        {
+          "name": "uv_stable",
+          "label": "UV stable",
+          "value": null
+        },
+        {
+          "name": "flexible_cure",
+          "label": "Flexible cure",
+          "value": "50% joint movement"
+        },
+        {
+          "name": "cold_weather_install",
+          "label": "Cold-weather installation",
+          "value": null
+        },
+        {
+          "name": "ten_year_warranty",
+          "label": "10-year warranty",
+          "value": null
+        },
+        {
+          "name": "paintable",
+          "label": "Paintable",
+          "value": "30 min"
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "mildew_resistant",
+          "label": "Mildew resistant",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0135",
+      "competitor_id": "cmp_baywood",
+      "name": "Coastal Composite Decking",
+      "category": "Decking",
+      "price_usd": 7.75,
+      "url": "https://www.baywood.example.com/products/coastal-composite-decking",
+      "description": "Salt-spray rated capped composite decking for waterfront installs.",
+      "last_seen_at": "2026-08-13",
+      "features": [
+        {
+          "name": "capped_composite",
+          "label": "Capped composite core",
+          "value": null
+        },
+        {
+          "name": "slip_resistant",
+          "label": "Slip resistant",
+          "value": "R11"
+        },
+        {
+          "name": "cool_touch_cap",
+          "label": "Cool-touch cap layer",
+          "value": null
+        },
+        {
+          "name": "mold_inhibitor",
+          "label": "Mold inhibitor",
+          "value": null
+        },
+        {
+          "name": "fade_stain_warranty",
+          "label": "Fade and stain warranty",
+          "value": "25 years"
+        },
+        {
+          "name": "recycled_content",
+          "label": "Recycled content",
+          "value": "62%"
+        },
+        {
+          "name": "hidden_drainage",
+          "label": "Concealed drainage channel",
+          "value": null
+        },
+        {
+          "name": "grooved_edge",
+          "label": "Grooved edge profile",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0136",
+      "competitor_id": "cmp_baywood",
+      "name": "Shake Panel Siding",
+      "category": "Siding",
+      "price_usd": 3.95,
+      "url": "https://www.baywood.example.com/products/shake-panel-siding",
+      "description": "Molded polymer shake panel with a hand-split cedar profile.",
+      "last_seen_at": "2026-07-20",
+      "features": [
+        {
+          "name": "pre_finished",
+          "label": "Factory pre-finished",
+          "value": null
+        },
+        {
+          "name": "impact_rated",
+          "label": "Impact rated",
+          "value": "Class 4"
+        },
+        {
+          "name": "termite_resistant",
+          "label": "Termite resistant",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "wind_rated",
+          "label": "Wind rated",
+          "value": "130 mph"
+        },
+        {
+          "name": "color_matched_trim",
+          "label": "Color-matched trim program",
+          "value": null
+        },
+        {
+          "name": "low_voc",
+          "label": "Low VOC",
+          "value": null
+        },
+        {
+          "name": "self_aligning_lock",
+          "label": "Self-aligning lock",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0137",
+      "competitor_id": "cmp_baywood",
+      "name": "Denim Batt Insulation R-13",
+      "category": "Insulation",
+      "price_usd": 1.3,
+      "url": "https://www.baywood.example.com/products/denim-batt-insulation-r-13",
+      "description": "Recycled cotton denim batt for 2x4 cavities, priced per square foot.",
+      "last_seen_at": "2026-07-23",
+      "features": [
+        {
+          "name": "recycled_content",
+          "label": "Recycled content",
+          "value": "62%"
+        },
+        {
+          "name": "formaldehyde_free",
+          "label": "Formaldehyde free",
+          "value": null
+        },
+        {
+          "name": "no_itch_binder",
+          "label": "No-itch binder",
+          "value": null
+        },
+        {
+          "name": "sound_dampening",
+          "label": "Sound dampening",
+          "value": "STC 52"
+        },
+        {
+          "name": "mold_inhibitor",
+          "label": "Mold inhibitor",
+          "value": null
+        },
+        {
+          "name": "fire_rated",
+          "label": "Fire rated",
+          "value": "Class A"
+        },
+        {
+          "name": "friction_fit",
+          "label": "Friction-fit edges",
+          "value": null
+        },
+        {
+          "name": "low_voc",
+          "label": "Low VOC",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0138",
+      "competitor_id": "cmp_baywood",
+      "name": "Coastal Shingle",
+      "category": "Roofing",
+      "price_usd": 128.0,
+      "url": "https://www.baywood.example.com/products/coastal-shingle",
+      "description": "High-wind architectural shingle marketed for hurricane-zone reroofs.",
+      "last_seen_at": "2026-07-26",
+      "features": [
+        {
+          "name": "algae_resistant",
+          "label": "Algae resistant",
+          "value": "10-year"
+        },
+        {
+          "name": "wind_rated",
+          "label": "Wind rated",
+          "value": "130 mph"
+        },
+        {
+          "name": "impact_rated",
+          "label": "Impact rated",
+          "value": "Class 4"
+        },
+        {
+          "name": "lifetime_warranty",
+          "label": "Limited lifetime warranty",
+          "value": null
+        },
+        {
+          "name": "solar_reflective",
+          "label": "Solar reflective",
+          "value": "SRI 78"
+        },
+        {
+          "name": "high_nail_zone",
+          "label": "Wide nailing zone",
+          "value": "1.5 in"
+        },
+        {
+          "name": "fire_rated",
+          "label": "Fire rated",
+          "value": "Class A"
+        },
+        {
+          "name": "ice_dam_protection",
+          "label": "Ice dam protection",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0139",
+      "competitor_id": "cmp_baywood",
+      "name": "Marine Sealant",
+      "category": "Sealants and Adhesives",
+      "price_usd": 14.2,
+      "url": "https://www.baywood.example.com/products/marine-sealant",
+      "description": "Marine-grade polyurethane sealant for below-waterline and dock work.",
+      "last_seen_at": "2026-07-29",
+      "features": [
+        {
+          "name": "uv_stable",
+          "label": "UV stable",
+          "value": null
+        },
+        {
+          "name": "solvent_free",
+          "label": "Solvent free",
+          "value": null
+        },
+        {
+          "name": "flexible_cure",
+          "label": "Flexible cure",
+          "value": "50% joint movement"
+        },
+        {
+          "name": "mildew_resistant",
+          "label": "Mildew resistant",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        },
+        {
+          "name": "ten_year_warranty",
+          "label": "10-year warranty",
+          "value": null
+        },
+        {
+          "name": "gap_fill",
+          "label": "Gap fill",
+          "value": "1 in"
+        },
+        {
+          "name": "cold_weather_install",
+          "label": "Cold-weather installation",
+          "value": null
+        }
+      ]
+    },
+    {
+      "id": "prd_0140",
+      "competitor_id": "cmp_baywood",
+      "name": "Harbor Awning Window",
+      "category": "Windows",
+      "price_usd": 366.0,
+      "url": "https://www.baywood.example.com/products/harbor-awning-window",
+      "description": "Vinyl awning window sized for bathrooms and basement egress wells.",
+      "last_seen_at": "2026-08-01",
+      "features": [
+        {
+          "name": "low_e_coating",
+          "label": "Low-E coating",
+          "value": "Low-E 366"
+        },
+        {
+          "name": "argon_filled",
+          "label": "Argon gas fill",
+          "value": null
+        },
+        {
+          "name": "laminated_glass",
+          "label": "Laminated glass",
+          "value": null
+        },
+        {
+          "name": "thermal_break",
+          "label": "Thermal break",
+          "value": null
+        },
+        {
+          "name": "energy_star",
+          "label": "ENERGY STAR certified",
+          "value": null
+        },
+        {
+          "name": "forced_entry_rated",
+          "label": "Forced-entry rated",
+          "value": null
+        },
+        {
+          "name": "warm_edge_spacer",
+          "label": "Warm-edge spacer",
+          "value": null
+        },
+        {
+          "name": "moisture_resistant",
+          "label": "Moisture resistant",
+          "value": null
+        }
+      ]
+    }
+  ],
+  "change_log": [
+    {
+      "product_id": "prd_0108",
+      "observed_at": "2026-03-04",
+      "change_type": "price_changed",
+      "detail": "List price moved from 6.80 to 7.10 per linear foot."
+    },
+    {
+      "product_id": "prd_0115",
+      "observed_at": "2026-03-11",
+      "change_type": "feature_added",
+      "detail": "Cool-touch cap layer added to the 2026 run."
+    },
+    {
+      "product_id": "prd_0122",
+      "observed_at": "2026-03-19",
+      "change_type": "added",
+      "detail": "New listing: Ascent PVC Decking appeared on the dealer price list."
+    },
+    {
+      "product_id": "prd_0135",
+      "observed_at": "2026-03-27",
+      "change_type": "price_changed",
+      "detail": "Introductory price of 7.40 raised to 7.75 per linear foot."
+    },
+    {
+      "product_id": "prd_0109",
+      "observed_at": "2026-04-02",
+      "change_type": "price_changed",
+      "detail": "Dropped from 2.29 to 2.15 per square foot."
+    },
+    {
+      "product_id": "prd_0128",
+      "observed_at": "2026-04-08",
+      "change_type": "feature_added",
+      "detail": "Ascent Stair Tread now lists a deeper traction emboss."
+    },
+    {
+      "product_id": "prd_0116",
+      "observed_at": "2026-04-15",
+      "change_type": "feature_added",
+      "detail": "Engineered Wood Siding picked up a Class A fire rating."
+    },
+    {
+      "product_id": "prd_0130",
+      "observed_at": "2026-04-21",
+      "change_type": "added",
+      "detail": "New listing: Standing Seam Roof Panel added to the metal roofing page."
+    },
+    {
+      "product_id": "prd_0111",
+      "observed_at": "2026-04-29",
+      "change_type": "price_changed",
+      "detail": "StormGuard roll price cut from 98.00 to 92.50."
+    },
+    {
+      "product_id": "prd_0126",
+      "observed_at": "2026-05-06",
+      "change_type": "feature_added",
+      "detail": "Sentinel Impact Window added a forced-entry rating to its spec sheet."
+    },
+    {
+      "product_id": "prd_0118",
+      "observed_at": "2026-05-13",
+      "change_type": "price_changed",
+      "detail": "SolarShield moved from 129.00 to 134.00 per square."
+    },
+    {
+      "product_id": "prd_0140",
+      "observed_at": "2026-05-20",
+      "change_type": "added",
+      "detail": "New listing: Harbor Awning Window replaced a discontinued basement unit."
+    },
+    {
+      "product_id": "prd_0123",
+      "observed_at": "2026-05-28",
+      "change_type": "feature_added",
+      "detail": "Insulated Vinyl Siding backer upgraded from R-2.0 to R-2.7."
+    },
+    {
+      "product_id": "prd_0113",
+      "observed_at": "2026-06-03",
+      "change_type": "price_changed",
+      "detail": "FlexBond cartridge price raised from 7.85 to 8.20."
+    },
+    {
+      "product_id": "prd_0131",
+      "observed_at": "2026-06-10",
+      "change_type": "removed",
+      "detail": "Summit Clad delisted the 12 ft Composite Deck Board length; 16 ft and 20 ft remain."
+    },
+    {
+      "product_id": "prd_0119",
+      "observed_at": "2026-06-17",
+      "change_type": "feature_added",
+      "detail": "Horizon Casement Window moved to triple pane as the standard glazing."
+    },
+    {
+      "product_id": "prd_0136",
+      "observed_at": "2026-06-24",
+      "change_type": "price_changed",
+      "detail": "Shake Panel Siding moved from 3.79 to 3.95 per square foot."
+    },
+    {
+      "product_id": "prd_0125",
+      "observed_at": "2026-07-01",
+      "change_type": "feature_added",
+      "detail": "IceStop Roof Membrane now advertises cold-weather application to 25F."
+    },
+    {
+      "product_id": "prd_0110",
+      "observed_at": "2026-07-08",
+      "change_type": "price_changed",
+      "detail": "Fiberglass Batt R-19 cut from 1.04 to 0.98 per square foot."
+    },
+    {
+      "product_id": "prd_0129",
+      "observed_at": "2026-07-15",
+      "change_type": "added",
+      "detail": "New listing: Steel Lap Siding added in three new dark colors."
+    },
+    {
+      "product_id": "prd_0117",
+      "observed_at": "2026-07-22",
+      "change_type": "price_changed",
+      "detail": "Blown Cellulose R-13 dropped from 0.79 to 0.74 per square foot."
+    },
+    {
+      "product_id": "prd_0139",
+      "observed_at": "2026-07-29",
+      "change_type": "feature_added",
+      "detail": "Marine Sealant added a 10-year warranty to the label."
+    },
+    {
+      "product_id": "prd_0121",
+      "observed_at": "2026-08-04",
+      "change_type": "removed",
+      "detail": "EverGrain Fascia Board discontinued in Coastal Grey; five colors remain."
+    },
+    {
+      "product_id": "prd_0127",
+      "observed_at": "2026-08-10",
+      "change_type": "price_changed",
+      "detail": "GapFill Foam Sealant moved from 6.95 to 7.35 per can."
+    },
+    {
+      "product_id": "prd_0112",
+      "observed_at": "2026-08-14",
+      "change_type": "feature_added",
+      "detail": "Vantage Double-Hung Window added laminated glass as a no-cost option."
+    }
+  ]
+}
